@@ -7,8 +7,18 @@
     --> Event listener 
 */
 
-var myheadSelected = document.querySelector("h1"); // for selecting
+/**
+ * Here we write CSS property in camel casing
+ */
 
-console.log(myheadSelected);
+console.log("Js Script initiated **");
 
-myheadSelected.innerHTML = "My new heading !";
+var myVar = document.querySelector("h1");
+console.log(myVar.outerHTML);
+
+myVar.innerHTML = "My new heading !";
+myVar.style.color = "Red";
+myVar.style.backgroundColor = "aqua";
+myVar.style.width = "max-content";
+
+console.log(myVar.outerHTML);
