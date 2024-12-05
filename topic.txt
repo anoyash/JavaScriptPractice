@@ -34,8 +34,19 @@ js
 -- swithc 
 
 
+---> JS DOM <---
 
-* Interview Questions 
+--> What is DOM ?
+--> 4 pillars of DOM ?
+    --> Selection of an HTML element
+    --> Changing HTML
+    --> Changing CSS
+    --> Event listener 
 
-1. Difference between undefined vs not-defined ?
-2. Hosting is different than Hoisting ?
+--> Simple example of bulb of whatever clicking on the same button
+--> Multiple events
+--> Selecting Multiple elements at a same time
+--> setTimeout
+--> setInterval
+--> future projects 
+
