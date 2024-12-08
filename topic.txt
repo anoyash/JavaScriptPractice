@@ -41,7 +41,7 @@ js
     --> Selection of an HTML element
     --> Changing HTML
     --> Changing CSS
-    --> Event listener 
+    --> Event listener  
 
 --> Simple example of bulb of whatever clicking on the same button
 --> Multiple events
